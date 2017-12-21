@@ -22,7 +22,7 @@ Configuration
 ---------------------------------------
 To use the MODX to Nutshell CRM hook, you have to supply a username and API key. This can be configured with either system settings or formit parameters:
 
-* System settings
+* System settings which are required
 nutshellmodx.apikey
 nutshellmodx.username
 
